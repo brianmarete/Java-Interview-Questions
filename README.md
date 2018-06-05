@@ -16,3 +16,5 @@
 * What is an Internet Protocol?
 ## Android
 * What are the four main components of an Android Application?
+* What is the purpose of a package name?
+* What is the purpose of Android Virtual Device?
