@@ -1,10 +1,11 @@
 # Java Technical Interview Questions
 ## Java
+* What is the JVM?
 * Define code compilation?
 * What is a constuctor?
 * What is the naming convention of variables in java?
 * What is an annotation and give an example.
-* What is the difference betwee '==' and equals()?
+* What is the difference betwee '==' and equals() when comparing Strings?
 * What are the 8 primitive types in Java?
 * What is the difference between primitives and wrapper classes and when can we use each?
 * Define Encapsulation and outline its benefits.
